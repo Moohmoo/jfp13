@@ -8,10 +8,7 @@ __copyright__ = "CC BY-SA"
 
 
 import networkx as nx
-import numpy as np
 import sys
-
-import matplotlib.pyplot as plt
 
 
 def exercice_3(k, G):
@@ -46,4 +43,4 @@ def __check_cycle(cycle, neigh, G, list_v):
                 list(list_v + [n_i])
             )
 
-    return int(len(neigh) - result == 1)
+    return int(len(neigh) - result <= 2)
