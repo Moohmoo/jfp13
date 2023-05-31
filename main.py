@@ -9,9 +9,6 @@ __copyright__ = "CC BY-SA"
 import networkx as nx
 
 from sys import exit as sysexit
-import matplotlib.pyplot as plt
-
-import numpy as np
 
 
 from exercice_1 import exercice_1 as ex1
@@ -33,7 +30,6 @@ if __name__ == "__main__":
             line = line.strip().split()
             G.add_edge(line[0], line[1])
 
-
     arg = input().split()
 
     if len(arg) != 2:
@@ -44,7 +40,7 @@ if __name__ == "__main__":
     elif arg[0] == "2":
         ex2(int(arg[1]), G)
     elif arg[0] == "3":
-        ex3(int(arg[1]))
+        ex3(int(arg[1]), G)
     elif arg[0] == "4":
         ex4(int(arg[1]))
     elif arg[0] == "5":
