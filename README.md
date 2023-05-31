@@ -4,8 +4,8 @@
 Clone the repository:
 ```https://github.com/Moohmoo/jfp13.git```
 
-Install NumPy :
-```pip install numpy```
+Install networkx :
+```pip install networkx[default]```
 
 ## Lauch locale test
 
