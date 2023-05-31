@@ -15,7 +15,7 @@ from exercice_4 import exercice_4 as ex4
 from exercice_5 import exercice_5 as ex5
 
 if __name__ == "__main__":
-    arg = input(f"Input data: ").split()
+    arg = input().split()
 
     if len(arg) != 2:
         sysexit("ERROR: Number of given arguments is incorrect")
@@ -31,4 +31,4 @@ if __name__ == "__main__":
     elif arg[0] == "5":
         ex5(arg[1])
     else:
-        sysexit(f"ERROR: Given argument is incorrect. Unknown exercice.")
+        sysexit("ERROR: Given argument is incorrect. Unknown exercice.")

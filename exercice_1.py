@@ -12,14 +12,18 @@ import sys
 
 
 def exercice_1(k):
-    for question in range(k):
-        print(question, file=sys.stderr)
-        u, v = input(f"Question #{question}: ").split()
+    """Exercice 1: check if two nodes are connected.
+
+    Parameters
+    ----------
+    k : int
+        Number of asked questions.
+    """
+    for i in range(k):
+        u, v = input().split()
 
         u = int(u)
         v = int(v)
-
-        print(f"{u=} {v=}", file=sys.stderr)
 
         is_neighbor: int = 0
 
