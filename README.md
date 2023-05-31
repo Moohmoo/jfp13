@@ -9,4 +9,6 @@ Install NumPy :
 
 ## Lauch locale test
 
+Example for the Exercice 1:
+
 ```python3 data/interactive_runner.py data/juge_local_ubuntu 1 -- python3 main.py```
