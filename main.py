@@ -42,7 +42,7 @@ if __name__ == "__main__":
     elif arg[0] == "3":
         ex3(int(arg[1]), G)
     elif arg[0] == "4":
-        ex4(int(arg[1]))
+        ex4(int(arg[1]), G)
     elif arg[0] == "5":
         ex5(int(arg[1]))
     else:
