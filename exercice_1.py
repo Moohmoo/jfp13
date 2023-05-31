@@ -11,12 +11,15 @@ from tqdm import tqdm
 import sys
 
 
-def exercice_1(k: int):
-    for question in tqdm(range(k), file=sys.stderr):
+def exercice_1(k):
+    for question in range(k):
+        print(question, file=sys.stderr)
         u, v = input(f"Question #{question}: ").split()
 
         u = int(u)
         v = int(v)
+
+        print(f"{u=} {v=}", file=sys.stderr)
 
         is_neighbor: int = 0
 

@@ -15,7 +15,7 @@ from exercice_4 import exercice_4 as ex4
 from exercice_5 import exercice_5 as ex5
 
 if __name__ == "__main__":
-    arg: list = input(f"Input data: ").split()
+    arg = input(f"Input data: ").split()
 
     if len(arg) != 2:
         sysexit("ERROR: Number of given arguments is incorrect")
