@@ -19,13 +19,24 @@ def exercice_3(k, G):
         cycle = [j for i in cycle for j in i]
 
         neigh = list(G.neighbors(v))
-        dodge = __check_cycle(cycle, neigh, G, [v])
+        
+        # if v in cycle:
+        #     dodge = 0
+        # elif len(list(G.neighbors(v))) == 1:
+        #     dodge = 1
+        # else:
+        dodge = __check_cycle(cycle, neigh, G, [v], v)
 
         print(dodge, flush=True)
 
 
-def __check_cycle(cycle, neigh, G, list_v):
+def __check_cycle(cycle, neigh, G, list_v, act_v):
     result = 0
+
+    if act_v in cycle:
+        return 0
+    elif len(list(G.neighbors(act_v))) == 1:
+        return 1
 
     for n_i in neigh:
         if n_i in list_v:
@@ -40,7 +51,8 @@ def __check_cycle(cycle, neigh, G, list_v):
                 cycle,
                 list(G.neighbors(n_i)),
                 G,
-                list(list_v + [n_i])
+                list(list_v + [n_i]),
+                n_i
             )
 
-    return int(len(neigh) - result <= 2)
+    return int(len(neigh) - result < 2)
