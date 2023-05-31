@@ -7,7 +7,20 @@ __version__ = "0.0.1"
 __copyright__ = "CC BY-SA"
 
 from data.metro import graph
+from tqdm import tqdm
+import sys
 
 
-def exercice_1(u):
-    return len(graph[u])
+def exercice_1(k: int):
+    for question in tqdm(range(k), file=sys.stderr):
+        u, v = input(f"Question #{question}: ").split()
+
+        u = int(u)
+        v = int(v)
+
+        is_neighbor: int = 0
+
+        if v in graph[u]:
+            is_neighbor = 1
+
+        print(is_neighbor, flush=True)
