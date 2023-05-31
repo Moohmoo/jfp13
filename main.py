@@ -9,6 +9,10 @@ __copyright__ = "CC BY-SA"
 import networkx as nx
 
 from sys import exit as sysexit
+import matplotlib.pyplot as plt
+
+import numpy as np
+
 
 from exercice_1 import exercice_1 as ex1
 from exercice_2 import exercice_2 as ex2
@@ -18,6 +22,7 @@ from exercice_5 import exercice_5 as ex5
 
 
 if __name__ == "__main__":
+    # print(np.array(nx.find_cycle(G, orientation="ignore")))
     G = nx.Graph()
 
     with open("data/metro.txt", "r", encoding="utf-8") as file:
