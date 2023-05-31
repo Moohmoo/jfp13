@@ -1,0 +1,302 @@
+# id nom GPS
+0 Boulogne-Jean-Jaurès 48.84228 2.238863
+1 Duroc 48.846849 2.316937
+2 Cluny-La Sorbonne 48.850796 2.345031
+3 Mirabeau 48.847085 2.273075
+4 Porte d'Auteuil 48.848226 2.257699
+5 Cardinal-Lemoine 48.846706 2.351335
+6 Avenue Emile-Zola 48.846852 2.295449
+7 Charles Michels 48.846363 2.285631
+8 Boulogne Pont de Saint-Cloud 48.84068 2.228314
+9 Chardon-Lagache 48.845104 2.266936
+10 Jourdain 48.875248 2.389329
+11 Goncourt (Hôpital Saint-Louis) 48.870015 2.370769
+12 Telegraphe 48.875522 2.398677
+13 Rambuteau 48.861193 2.353287
+14 Pyrenees 48.873821 2.384886
+15 Mairie des Lilas 48.880051 2.41566
+16 Solférino 48.858533 2.323089
+17 Mairie d'Issy 48.824347 2.273566
+18 Vaugirard (Adolphe Chérioux) 48.839439 2.301078
+19 Lamarck-Caulaincourt 48.889738 2.339149
+20 Notre-Dame des Champs 48.844783 2.328444
+21 Assemblée Nationale 48.861454 2.32031
+22 Falguière 48.844323 2.317565
+23 Volontaires 48.841418 2.307994
+24 Saint-Georges 48.878594 2.337827
+25 Abbesses 48.8844 2.338399
+26 Notre-Dame de Lorette 48.876796 2.339026
+27 Front Populaire 48.906667 2.36523
+28 Porte de Versailles 48.832253 2.287864
+29 Trinité-d'Estienne d'Orves 48.876329 2.331805
+30 Rue du Bac 48.855891 2.325705
+31 Porte de la Chapelle 48.897959 2.359255
+32 Jules Joffrin 48.892497 2.344328
+33 Rennes 48.848198 2.328022
+34 Marx-Dormoy 48.890374 2.359797
+35 Corentin-Celton 48.82683 2.278967
+36 Convention 48.837137 2.296396
+37 Pernety 48.833934 2.317909
+38 Châtillon Montrouge 48.810283 2.301289
+39 Plaisance 48.831758 2.313867
+40 Carrefour-Pleyel 48.919944 2.343909
+41 Brochant 48.890627 2.320191
+42 La Fourche 48.887437 2.325725
+43 Gaité 48.838752 2.322509
+44 Saint-Denis-Universite 48.946111 2.362045
+45 Varenne 48.856393 2.314754
+46 Malakoff-Plateau de Vanves 48.822443 2.297932
+47 Mairie de Clichy 48.904005 2.305368
+48 Mairie de Saint-Ouen 48.911622 2.333737
+49 Porte de Saint-Ouen 48.897512 2.329022
+50 Porte de Vanves 48.827765 2.304312
+51 Garibaldi 48.906382 2.33191
+52 Saint-Denis-Porte de Paris 48.929927 2.356186
+53 Basilique de Saint-Denis 48.936477 2.35964
+54 Saint-Francois-Xavier 48.850983 2.31443
+55 Porte de Clichy 48.894436 2.313566
+56 Malakoff-Rue Etienne Dolet 48.814704 2.297285
+57 Les Agnettes 48.922916 2.285964
+58 Asnieres-Gennevilliers Les Courtilles 48.930294 2.283761
+59 Guy-Môquet 48.893009 2.327496
+60 Liège 48.879537 2.326858
+61 Cour Saint-Emilion 48.833314 2.3873
+62 Bibliotheque-Francois Mitterrand 48.829831 2.37612
+63 Olympiades 48.826948 2.367038
+64 Victor Hugo 48.869865 2.285226
+65 Pigalle 48.882423 2.337255
+66 La Chapelle 48.884389 2.359277
+67 Philippe Auguste 48.858379 2.389735
+68 Place de Clichy 48.883456 2.327375
+69 Père-Lachaise 48.863161 2.38726
+70 Porte Dauphine (Maréchal de Lattre de Tassigny) 48.871792 2.27487
+71 Barbès-Rochechouart 48.88368 2.349533
+72 Belleville 48.872287 2.376738
+73 Colonel Fabien 48.878185 2.370175
+74 Villiers 48.881324 2.316597
+75 Blanche 48.883771 2.332485
+76 Stalingrad 48.884189 2.36703
+77 Anvers 48.882872 2.344164
+78 Monceau 48.880577 2.309416
+79 Alexandre-Dumas 48.856426 2.394554
+80 Avron 48.851194 2.398239
+81 Jaurès 48.882769 2.369946
+82 Ménilmontant 48.865706 2.384429
+83 Ternes 48.878228 2.298121
+84 Courcelles 48.879272 2.303299
+85 Couronnes 48.869329 2.380536
+86 Rome 48.882071 2.320398
+87 Saint-Placide 48.847012 2.327055
+88 Strasbourg-Saint-Denis 48.869632 2.354502
+89 Montparnasse-Bienvenue 48.84419 2.324441
+90 Saint-Germain des Prés 48.853447 2.333046
+91 Gare de l'Est (Verdun) 48.876696 2.357993
+92 Marcadet-Poissonniers 48.891544 2.349371
+93 Etienne Marcel 48.86371 2.348983
+94 Château Rouge 48.887086 2.34937
+95 Saint-Michel 48.8536 2.343996
+96 Château d'Eau 48.872454 2.356056
+97 Mouton-Duvernet 48.832192 2.330407
+98 Alésia 48.828066 2.326827
+99 Gare du Nord 48.879743 2.354601
+100 Les Halles 48.862012 2.346476
+101 Odéon 48.852198 2.33878
+102 Denfert-Rochereau 48.834277 2.332204
+103 Porte de Clignancourt 48.89797 2.343988
+104 Raspail 48.839157 2.330474
+105 Mairie de Montrouge 48.818466 2.319643
+106 Place d'Italie 48.831283 2.355456
+107 Bobigny-Pablo-Picasso 48.907147 2.449458
+108 Porte de Pantin 48.888584 2.392423
+109 Eglise de Pantin 48.893633 2.4129
+110 Saint-Marcel 48.839442 2.36164
+111 Oberkampf 48.86403 2.369185
+112 Laumière 48.884932 2.379091
+113 Bobigny-Pantin (Raymond Queneau) 48.895799 2.424857
+114 Bréguet-Sabin 48.856768 2.370774
+115 Campo-Formio 48.835551 2.358752
+116 Richard-Lenoir 48.860686 2.372411
+117 Hoche 48.891499 2.403125
+118 Péreire 48.885031 2.297135
+119 Sentier 48.86735 2.347567
+120 République 48.867258 2.364037
+121 Réaumur-Sébastopol 48.86628 2.352485
+122 Anatole-France 48.892019 2.285517
+123 Porte de Bagnolet 48.864337 2.408825
+124 Porte de Champerret 48.885739 2.291861
+125 Quatre Septembre 48.869661 2.336328
+126 Louise Michel 48.88927 2.288055
+127 Arts-et-Métiers 48.865552 2.356108
+128 Wagram 48.883712 2.305558
+129 Pont de Levallois-Bécon 48.89731 2.280769
+130 Saint-Lazare 48.875682 2.325592
+131 Gallieni (Parc de Bagnolet) 48.863263 2.415975
+132 Gambetta 48.864783 2.398446
+133 Parmentier 48.86526 2.374757
+134 Europe 48.87906 2.322975
+135 Bourse 48.868762 2.340674
+136 Rue Saint-Maur 48.864089 2.3809
+137 Opéra 48.870721 2.332255
+138 Temple 48.866764 2.361571
+139 Malesherbes 48.882536 2.311009
+140 Havre-Caumartin 48.873462 2.32848
+141 Saint-Fargeau 48.8717 2.404299
+142 Pelleport 48.868223 2.401324
+143 Nation 48.848111 2.398004
+144 Concorde 48.865678 2.321194
+145 Bastille 48.852976 2.369219
+146 Louvre-Rivoli 48.86088 2.340973
+147 Bérault 48.845369 2.428245
+148 Champs-Elysées-Clémenceau 48.867744 2.314123
+149 Reuilly-Diderot 48.847353 2.385843
+150 George V 48.872046 2.300769
+151 Argentine 48.875672 2.289444
+152 Franklin-Roosevelt 48.86901 2.310253
+153 Palais-Royal (Musée du Louvre) 48.862372 2.336574
+154 Pont de Neuilly 48.885506 2.258527
+155 Saint-Mandé 48.846238 2.419
+156 Château de Vincennes 48.844325 2.440552
+157 Esplanade de la Défense 48.888358 2.249937
+158 Châtelet 48.85857 2.347933
+159 Porte Maillot 48.878006 2.282466
+160 Charles de Gaulle-Etoile 48.873931 2.295127
+161 Tuileries 48.86478 2.329095
+162 Les Sablons (Jardin d'acclimatation) 48.881299 2.271915
+163 Porte de Vincennes 48.847017 2.410817
+164 Gare de Lyon 48.84556 2.373449
+165 Saint-Paul (Le Marais) 48.855135 2.361334
+166 Hôtel de Ville 48.857356 2.352074
+167 La Défense (Grande Arche) 48.891827 2.237992
+168 Porte des Lilas 48.876938 2.406377
+169 Simplon 48.894123 2.347245
+170 Vavin 48.84206 2.328867
+171 Cité 48.855685 2.346203
+172 Porte d'Orléans (Général Leclerc) 48.822817 2.325073
+173 Saint-Sulpice 48.851146 2.330963
+174 Picpus 48.845323 2.401786
+175 Ourcq 48.886619 2.385484
+176 Gare d'Austerlitz 48.843414 2.364188
+177 Quai de la Rapée 48.845966 2.366913
+178 Jacques-Bonsergent 48.870701 2.360579
+179 Sèvres-Lecourbe 48.844996 2.310865
+180 Bel-Air 48.842178 2.401142
+181 Bercy 48.840192 2.379477
+182 Kléber 48.871306 2.293331
+183 Bir-Hakeim (Grenelle) 48.854327 2.28881
+184 Dugommier 48.838876 2.389347
+185 Dupleix 48.850743 2.292463
+186 Cambronne 48.847699 2.302039
+187 Nationale 48.832881 2.361909
+188 Glacière 48.830861 2.344551
+189 La Motte-Picquet-Grenelle 48.849019 2.297762
+190 Edgar-Quinet 48.840568 2.326403
+191 Passy 48.857534 2.285593
+192 Pasteur 48.842013 2.31329
+193 Chevaleret 48.834579 2.366934
+194 Trocadéro 48.862667 2.287263
+195 Saint-Jacques 48.832992 2.336683
+196 Quai de la Gare 48.837615 2.373852
+197 Daumesnil (Félix Eboué) 48.839376 2.395788
+198 Corvisart 48.829603 2.34937
+199 Boissière 48.866856 2.290038
+200 Villejuif-Paul Vaillant Couturier (Hôpital Paul Brousse) 48.795994 2.368231
+201 Villejuif-Louis Aragon 48.786638 2.367111
+202 Pierre et Marie Curie 48.815917 2.377879
+203 La Courneuve-8-Mai-1945 48.920515 2.410226
+204 Poissonnière 48.877353 2.349381
+205 Porte d'Ivry 48.821357 2.369308
+206 Château Landon 48.878457 2.362054
+207 Le Kremlin-Bicêtre 48.810385 2.361831
+208 Jussieu 48.845968 2.354807
+209 Cadet 48.875826 2.343345
+210 Louis Blanc 48.8809 2.365107
+211 Censier-Daubenton 48.840594 2.351756
+212 Riquet 48.888393 2.374433
+213 Pont Neuf 48.858534 2.342117
+214 Porte d'Italie 48.818717 2.360501
+215 Pont Marie (Cité des Arts) 48.853464 2.357384
+216 Aubervilliers Pantin (4 Chemins) 48.903898 2.39248
+217 Mairie d'Ivry 48.811215 2.383509
+218 Villejuif-Léo Lagrange 48.80377 2.363909
+219 Fort d'Aubervilliers 48.914057 2.403576
+220 Maison Blanche 48.822879 2.35808
+221 Pyramides 48.866497 2.334094
+222 Chaussée d'Antin (La Fayette) 48.872986 2.333426
+223 Les Gobelins 48.836127 2.352081
+224 Tolbiac 48.826159 2.357019
+225 Porte de la Villette 48.897529 2.385644
+226 Le Peletier 48.874963 2.340157
+227 Sully-Morland 48.850794 2.361237
+228 Place Monge (Jardin des Plantes) 48.843165 2.35211
+229 Porte de Choisy 48.819902 2.364966
+230 Crimée 48.890289 2.376779
+231 Corentin-Cariou 48.894682 2.382302
+232 Bolivar 48.88079 2.374155
+233 Danube 48.881951 2.393261
+234 Botzaris 48.879607 2.389416
+235 Pré-Saint-Gervais 48.88016 2.398587
+236 Buttes-Chaumont 48.877804 2.381211
+237 Place des Fêtes 48.877224 2.392765
+238 Félix Faure 48.842825 2.292225
+239 Faidherbe-Chaligny 48.850068 2.384429
+240 Montgallet 48.844143 2.389625
+241 Porte Dorée 48.835497 2.406185
+242 Michel Bizot 48.836991 2.40292
+243 Commerce 48.844614 2.293803
+244 La Tour-Maubourg 48.857228 2.309796
+245 Ecole Militaire 48.854261 2.30544
+246 Pointe du Lac 48.768111 2.46565
+247 Saint-Sébastien-Froissart 48.860975 2.367262
+248 Filles du Calvaire 48.863078 2.366746
+249 Chemin Vert 48.857587 2.368037
+250 Ledru-Rollin 48.851194 2.375932
+251 Bonne Nouvelle 48.870577 2.348494
+252 Grands Boulevards 48.871575 2.342895
+253 Richelieu-Drouot 48.872006 2.339911
+254 Porte de Charenton 48.83266 2.400464
+255 Liberté 48.825637 2.407411
+256 Maisons-Alfort-Stade 48.808225 2.436276
+257 Charenton-Ecoles 48.82149 2.413857
+258 Ecole Vétérinaire de Maisons-Alfort 48.815076 2.421632
+259 Invalides 48.861093 2.314643
+260 Balard 48.836815 2.278683
+261 Créteil-L'Echat (Hôpital Henri Mondor) 48.796601 2.449532
+262 Créteil-Université 48.789724 2.450836
+263 Maisons-Alfort-Les Juilliottes 48.8025 2.446184
+264 Boucicaut 48.841025 2.287924
+265 Lourmel 48.838668 2.282248
+266 Madeleine 48.869507 2.32468
+267 Créteil-Préfecture (Hôtel de Ville) 48.779757 2.459314
+268 Billancourt 48.832088 2.238161
+269 Saint-Philippe du Roule 48.872471 2.310769
+270 Ranelagh 48.855504 2.269959
+271 Buzenval 48.851767 2.401181
+272 Alma-Marceau 48.864299 2.301251
+273 Robespierre 48.855681 2.423659
+274 Pont de Sèvres 48.82969 2.230528
+275 La Muette 48.858095 2.274096
+276 Exelmans 48.842907 2.260144
+277 Voltaire (Léon Blum) 48.857664 2.380036
+278 Charonne 48.854642 2.385032
+279 Jasmin 48.852439 2.267934
+280 Mairie de Montreuil 48.862281 2.441828
+281 Iéna 48.86435 2.294045
+282 Michel-Ange-Molitor 48.845056 2.261911
+283 Porte de Saint-Cloud 48.837565 2.255591
+284 Croix-de-Chavaux (Jacques Duclos) 48.857999 2.435867
+285 Michel-Ange-Auteuil 48.847925 2.264236
+286 Porte de Montreuil 48.85338 2.410458
+287 Miromesnil 48.873532 2.315578
+288 Saint-Ambroise 48.861647 2.373147
+289 Saint-Augustin 48.874387 2.320728
+290 Maraichers 48.8526 2.406385
+291 Marcel Sembat 48.833809 2.243481
+292 Rue des Boulets 48.852223 2.389116
+293 Rue de la Pompe (Avenue Georges Mandel) 48.864253 2.277917
+294 Ségur 48.846865 2.307269
+295 Maubert-Mutualité 48.849717 2.348926
+296 Sèvres-Babylone 48.850939 2.326115
+297 Vaneau 48.848701 2.32124
+298 Mabillon 48.852845 2.335144
+299 Eglise d'Auteuil 48.847883 2.270296
+300 Javel-André-Citroen 48.845964 2.277815
